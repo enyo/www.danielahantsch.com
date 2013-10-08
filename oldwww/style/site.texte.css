@@ -1,0 +1,44 @@
+#content
+{
+
+	margin: 40px 60px 40px 60px;
+	line-height: 160%;
+
+}
+
+
+.source
+{
+
+	border-top: 1px solid silver;
+	margin-top: 0px;
+	padding-top: 0px;
+
+}
+
+
+.source, .source a
+{
+	font-weight: bold;
+	color: #888888;
+}
+.source a
+{
+	text-decoration: underline;
+}
+
+
+
+p
+{
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: justify;
+	margin-bottom: 0px;
+}
+
+h1
+{
+	margin-top: 30px;
+
+}

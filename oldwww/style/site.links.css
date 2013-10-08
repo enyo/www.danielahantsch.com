@@ -1,0 +1,24 @@
+#content
+{
+
+	margin: 90px 60px 40px 60px;
+	line-height: 160%;
+
+}
+
+
+ul
+{
+
+	list-style: none;
+
+	margin: 0px;
+	padding: 0px;
+}
+
+li
+{
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 20px;
+}

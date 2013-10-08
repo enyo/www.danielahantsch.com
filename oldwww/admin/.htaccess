@@ -1,0 +1,4 @@
+AuthType Digest
+AuthName "Private"
+AuthDigestFile /srv/domains/*.danielahantsch.com/http/www/admin/.htdigest
+Require valid-user

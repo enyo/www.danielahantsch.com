@@ -1,0 +1,94 @@
+/* Some general definitions */
+
+body
+{
+	background-color: #eaeaea;
+	position: relative;
+}
+
+img
+{
+	border: none;
+}
+
+
+body, div, a, span, h1, h2, h3, input, pre
+{
+	font-family: verdana, tahoma, sans-serif;
+	font-size: 10px;
+	color: black;
+}
+
+h2
+{
+	color: #555555;
+}
+
+/* The main design */
+
+a
+{
+	text-decoration: underline;
+}
+
+#container
+{
+	position: relative;
+	margin: 50px auto 10px auto;
+	width: 805px;
+}
+
+
+
+#header a
+{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 60px;
+}
+
+
+#menu
+{
+	position: relative;
+	border-top: 1px solid #b9b9b9;
+	margin-top: 5px;
+}
+
+#menu_links
+{
+	position: absolute;
+	right: 60px;
+	top: 3px;
+}
+
+#menu_links ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu_links li
+{
+	margin: 0px;
+	padding: 0px;
+	margin-left: 10px;
+	float: left;
+}
+
+#content
+{
+	position: relative;
+	margin-top: 20px;
+}
+
+.success
+{
+	color: green;
+}
+.error
+{
+	color: red;
+}

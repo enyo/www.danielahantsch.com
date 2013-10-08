@@ -1,0 +1,57 @@
+#content/*, #content, span, p h1, p li, p ul, p ul li*/
+{
+
+	margin: 50px 60px;
+	line-height: 160%;
+	font-size: 10px;
+
+}
+
+
+.d
+{
+	font-weight: bold;
+	color: #444444;
+}
+.id
+{
+	font-weight: bold;
+	color: #444444;
+	visibility: hidden;
+}
+.l
+{
+	font-style: italic;
+	color: #444444;
+}
+
+p, p 
+{
+}
+
+
+#content ul, #content li
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#content ul
+{
+	list-style-type: none;
+	margin-bottom: 10px;
+}
+
+#content li
+{
+	border-bottom: 1px solid #cccccc;
+	padding: 3px 10px;
+/* 	padding-left: 10px; */
+}
+
+
+acronym
+{
+	color: #aa0000;
+	cursor: help;
+}

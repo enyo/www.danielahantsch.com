@@ -1,0 +1,38 @@
+#content
+{
+
+	margin: 50px 60px;
+	line-height: 160%;
+
+}
+
+
+#address
+{
+	margin-top: 20px;
+}
+
+#newsletter
+{
+	margin-top: 20px;
+}
+
+#imprint
+{
+	margin-top: 40px;
+}
+
+
+#imprint, #imprint a, #imprint h1, #imprint h2
+{
+	
+	color: #888888;
+
+}
+
+#imprint h2
+{
+
+	margin-bottom: 2px;
+
+}
